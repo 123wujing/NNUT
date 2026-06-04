@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains the demonstration video and supplementary 
-materials for the paper:
+materials for the paper.
 
 **"Wi-Fi Neural Transmitter for Cross-Technology Communication"**  
 NNUT is a fully software-defined neural network-based CTC framework 
@@ -15,7 +15,7 @@ hardware or firmware modifications.
 This demo provides a preliminary demonstration of our NNUT experimental setup. It shows that the proposed NNUT prototype has been successfully implemented and that the cross-technology signal generation and reception experiments can be practically conducted. A more comprehensive demonstration video, including additional experimental scenarios and detailed performance comparisons, is currently under preparation.
 
 ## Hardware Platform
-Neural Modulation Host：NVIDIA Jetson Nano；
-RF Front-End： ADI ADALM-Pluto SDR ；
-ZigBee/BLE Receiver： TI CC2650 Evaluation Board 
+Neural Modulation Host：NVIDIA Jetson Nano;
+RF Front-End： ADI ADALM-Pluto SDR ;
+ZigBee/BLE Receiver： TI CC2650 Evaluation Board. 
 
