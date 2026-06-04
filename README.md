@@ -5,7 +5,6 @@ This repository contains the demonstration video and supplementary
 materials for the paper:
 
 **"Wi-Fi Neural Transmitter for Cross-Technology Communication"**  
-IEEE Transactions on Mobile Computing, 2025.
 NNUT is a fully software-defined neural network-based CTC framework 
 that enables a standard Wi-Fi transmitter to generate waveforms 
 compatible with heterogeneous IoT protocols, including ZigBee, 
