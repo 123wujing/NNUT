@@ -12,7 +12,7 @@ Bluetooth Low Energy (BLE), and LoRa, without requiring any
 hardware or firmware modifications.
 ## Demo Video
 
-This demo provides a preliminary demonstration of our NNUT experimental setup. It shows that the proposed NNUT prototype has been successfully implemented and that the cross-technology signal generation and reception experiments can be practically conducted. A more comprehensive demonstration video, including additional experimental scenarios and detailed performance comparisons, is currently under preparation.
+This demo provides a preliminary demonstration of our NNUT experimental setup. It shows that the proposed NNUT prototype has been successfully implemented and that the cross-technology signal generation and reception experiments can be practically conducted.
 
 ## Hardware Platform
 Neural Modulation Host：NVIDIA Jetson Nano;
